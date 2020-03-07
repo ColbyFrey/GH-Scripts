@@ -1,2 +1,2 @@
 # Random-Scripts
-A miscellaneous collection of scripts created by me
+A miscellaneous collection of scripts created mostly by me
