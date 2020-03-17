@@ -1,9 +1,7 @@
 from numpy import *
 from PIL import Image
 
-
-
-flag = Image.open("flag.png")
+flag = Image.open(r"flag.png")
 img = array(flag)
 
 key = [41, 37, 23]
@@ -19,6 +17,3 @@ for x in range (0, a):
 
 enc = Image.fromarray(img)
 enc.save('enc.png')
-
-
-
