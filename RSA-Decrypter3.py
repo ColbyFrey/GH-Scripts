@@ -1,6 +1,5 @@
 from pwn import *
 
-# https://stackoverflow.com/questions/4798654/modular-multiplicative-inverse-function-in-python
 # solves for a small e when you have n, c 
 # Factor using alpertrons calculator (quick calc) - https://www.alpertron.com.ar/ECM.HTM
 #bootlegsa3 2019 pico
