@@ -5,5 +5,6 @@ print('he did')
 print('bruh')
 print('work damnit')
 print('game')
+print('I HATE GAME')
 #>:(
 #bruh
