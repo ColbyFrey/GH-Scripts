@@ -8,5 +8,6 @@ print('game')
 print('I HATE GAME')
 print('omg it might acutally work this time :D')
 print('damn it really be workin now huh')
+print('it do be tho')
 #>:(
 #bruhz
