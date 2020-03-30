@@ -1,0 +1,982 @@
+2017-01-02 08:03:13 [Cristobal Tromp] Swipe In
+2017-01-02 08:11:08 [Nannie Schuster] Swipe In
+2017-01-02 08:14:16 [Velma Jones] Swipe In
+2017-01-02 08:14:52 [Saige Franecki] Swipe In
+2017-01-02 08:15:21 [Ruben Hansen] Swipe In
+2017-01-02 08:21:20 [Destini Rice] Swipe In
+2017-01-02 08:22:13 [Golda Murazik] Swipe In
+2017-01-02 08:24:42 [Britney Roob] Swipe In
+2017-01-02 08:26:52 [Amely Crona] Swipe In
+2017-01-02 08:29:39 [Edwin Brekke] Swipe In
+2017-01-02 08:30:18 [Ernie Reichert] Swipe In
+2017-01-02 08:30:21 [Isaiah Cummings] Swipe In
+2017-01-02 08:31:01 [Tyree Weissnat] Swipe In
+2017-01-02 08:37:15 [Alfredo Carter] Swipe In
+2017-01-02 08:39:39 [Yvette Wiegand] Swipe In
+2017-01-02 08:45:46 [Amya Lebsack] Swipe In
+2017-01-02 08:47:00 [Destin Frami] Swipe In
+2017-01-02 08:49:16 [Trenton Haag] Swipe In
+2017-01-02 08:52:11 [Sammy Klein] Swipe In
+2017-01-02 08:54:53 [Toby Kessler] Swipe In
+2017-01-02 08:57:53 [Kaia Hegmann] Swipe In
+2017-01-02 09:00:41 [Monique Stamm] Swipe In
+2017-01-02 09:02:00 [Mauricio Lesch] Swipe In
+2017-01-02 09:02:34 [Eldora Hammes] Swipe In
+2017-01-02 09:03:11 [Dakota Gerlach] Swipe In
+2017-01-02 09:03:27 [Fay Huels] Swipe In
+2017-01-02 09:04:15 [Shaylee Kreiger] Swipe In
+2017-01-02 09:05:00 [Rylan Schaefer] Swipe In
+2017-01-02 09:05:48 [Domenick Towne] Swipe In
+2017-01-02 09:06:33 [Karolann Mante] Swipe In
+2017-01-02 09:07:13 [Jacquelyn Bogan] Swipe In
+2017-01-02 09:07:55 [Jarod Rowe] Swipe In
+2017-01-02 09:08:07 [Ike Koepp] Swipe In
+2017-01-02 09:09:23 [Jadyn Waelchi] Swipe In
+2017-01-02 09:09:52 [Aiyana Blick] Swipe In
+2017-01-02 09:10:07 [Modesto Hermann] Swipe In
+2017-01-02 09:10:39 [Maia Wilderman] Swipe In
+2017-01-02 09:11:00 [Jody McCullough] Swipe In
+2017-01-02 09:11:38 [Catharine Jacobi] Swipe In
+2017-01-02 09:12:37 [Nora Towne] Swipe In
+2017-01-02 09:13:19 [Leone Raynor] Swipe In
+2017-01-02 09:15:17 [Ruth Daugherty] Swipe In
+2017-01-02 09:15:37 [Cordelia Ortiz] Swipe In
+2017-01-02 09:15:48 [Brianne Schaefer] Swipe In
+2017-01-02 09:15:59 [Thomas Stroman] Swipe In
+2017-01-02 09:16:54 [Christelle Collier] Swipe In
+2017-01-02 09:17:46 [Neil Kling] Swipe In
+2017-01-02 09:18:41 [Dorthy Hills] Swipe In
+2017-01-02 09:19:09 [Jaylan Schamberger] Swipe In
+2017-01-02 09:19:48 [Brandt Bruen] Swipe In
+2017-01-02 09:19:55 [Eusebio Goodwin] Swipe In
+2017-01-02 09:20:46 [Wilhelmine Johnston] Swipe In
+2017-01-02 09:21:26 [Perry Schuster] Swipe In
+2017-01-02 09:22:04 [Della Breitenberg] Swipe In
+2017-01-02 09:22:40 [Allen Trantow] Swipe In
+2017-01-02 09:22:54 [Kevon Yost] Swipe In
+2017-01-02 09:23:06 [Lawrence Lueilwitz] Swipe In
+2017-01-02 09:23:59 [Annamarie Stamm] Swipe In
+2017-01-02 09:24:02 [Annabell Mosciski] Swipe In
+2017-01-02 09:24:54 [Jason Effertz] Swipe In
+2017-01-02 09:25:29 [Wilson Walter] Swipe In
+2017-01-02 09:25:47 [Arianna Reinger] Swipe In
+2017-01-02 09:27:34 [Cordelia Cronin] Swipe In
+2017-01-02 09:27:50 [Ike McLaughlin] Swipe In
+2017-01-02 09:28:20 [Norris Maggio] Swipe In
+2017-01-02 09:29:19 [Mackenzie Zieme] Swipe In
+2017-01-02 09:30:00 [Jaclyn Dibbert] Swipe In
+2017-01-02 09:30:43 [Hollis Lubowitz] Swipe In
+2017-01-02 09:31:01 [Nannie Schuster] Swipe Out
+2017-01-02 09:31:24 [Breanne Hauck] Swipe In
+2017-01-02 09:32:14 [Dora Hand] Swipe In
+2017-01-02 09:32:17 [Roberta Huel] Swipe In
+2017-01-02 09:32:23 [Bryana Yundt] Swipe In
+2017-01-02 09:32:54 [Valentina Rosenbaum] Swipe In
+2017-01-02 09:32:56 [Elijah Gleason] Swipe In
+2017-01-02 09:35:21 [Opal Boehm] Swipe In
+2017-01-02 09:36:01 [Giovani Harber] Swipe In
+2017-01-02 09:36:03 [Elvera Hartmann] Swipe In
+2017-01-02 09:36:51 [Bret Bode] Swipe In
+2017-01-02 09:36:53 [Felton Williamson] Swipe In
+2017-01-02 09:37:12 [Veda Macejkovic] Swipe In
+2017-01-02 09:37:20 [Karelle Bailey] Swipe In
+2017-01-02 09:37:20 [Elody Larkin] Swipe In
+2017-01-02 09:37:59 [Boris Stroman] Swipe In
+2017-01-02 09:38:12 [Vella Mraz] Swipe In
+2017-01-02 09:38:39 [Prince Predovic] Swipe In
+2017-01-02 09:39:19 [Roslyn Strosin] Swipe In
+2017-01-02 09:39:35 [Athena Adams] Swipe In
+2017-01-02 09:40:40 [Nyasia Gottlieb] Swipe In
+2017-01-02 09:41:02 [Leatha Bogan] Swipe In
+2017-01-02 09:41:17 [Santina Johnston] Swipe In
+2017-01-02 09:41:22 [Tyrique Bayer] Swipe In
+2017-01-02 09:42:06 [Joaquin Bauch] Swipe In
+2017-01-02 09:42:26 [Mireya Lemke] Swipe In
+2017-01-02 09:43:10 [Velma Jones] Swipe Out
+2017-01-02 09:43:56 [Phyllis Schmidt] Swipe In
+2017-01-02 09:44:16 [Clinton Hyatt] Swipe In
+2017-01-02 09:46:09 [Milford Gutkowski] Swipe In
+2017-01-02 09:47:05 [Ebony Quigley] Swipe In
+2017-01-02 09:47:26 [Dedrick Lebsack] Swipe In
+2017-01-02 09:47:36 [Lydia Considine] Swipe In
+2017-01-02 09:48:32 [Evans Ernser] Swipe In
+2017-01-02 09:49:08 [Russ Donnelly] Swipe In
+2017-01-02 09:49:16 [Alessandra Kertzmann] Swipe In
+2017-01-02 09:49:21 [Karlee Beatty] Swipe In
+2017-01-02 09:51:36 [Arlo Adams] Swipe In
+2017-01-02 09:52:33 [Dagmar Farrell] Swipe In
+2017-01-02 09:53:22 [Ivah DuBuque] Swipe In
+2017-01-02 09:55:02 [Justus Cruickshank] Swipe In
+2017-01-02 09:56:20 [Orpha Hirthe] Swipe In
+2017-01-02 09:57:23 [Ollie Friesen] Swipe In
+2017-01-02 09:58:51 [Kaylee Larson] Swipe In
+2017-01-02 09:59:42 [Tillman Schneider] Swipe In
+2017-01-02 10:00:40 [Nannie Schuster] Swipe In
+2017-01-02 10:01:12 [Gerda Sanford] Swipe In
+2017-01-02 10:02:04 [Josie Greenfelder] Swipe In
+2017-01-02 10:03:12 [Austin Pagac] Swipe In
+2017-01-02 10:03:13 [Edwina Zboncak] Swipe In
+2017-01-02 10:03:33 [Jovani Bartoletti] Swipe In
+2017-01-02 10:05:28 [Viola Bogisich] Swipe In
+2017-01-02 10:05:59 [Zackary Reinger] Swipe In
+2017-01-02 10:07:02 [Kaia Hegmann] Swipe Out
+2017-01-02 10:07:18 [Susan Franecki] Swipe In
+2017-01-02 10:07:50 [Edwin Brekke] Swipe Out
+2017-01-02 10:08:00 [Baylee McLaughlin] Swipe In
+2017-01-02 10:08:34 [Johnny Keebler] Swipe In
+2017-01-02 10:09:08 [Eldora Hammes] Swipe Out
+2017-01-02 10:11:06 [Dakota Gerlach] Swipe Out
+2017-01-02 10:11:12 [Ruben Hansen] Swipe Out
+2017-01-02 10:11:18 [Tom Schaefer] Swipe In
+2017-01-02 10:12:16 [Yvette Wiegand] Swipe Out
+2017-01-02 10:12:50 [Domenick Bechtelar] Swipe In
+2017-01-02 10:13:34 [Ernie Huel] Swipe In
+2017-01-02 10:13:41 [Saige Franecki] Swipe Out
+2017-01-02 10:14:35 [Della Zieme] Swipe In
+2017-01-02 10:14:49 [Isidro Nicolas] Swipe In
+2017-01-02 10:15:23 [Wayne Boyle] Swipe In
+2017-01-02 10:16:07 [Orion Vandervort] Swipe In
+2017-01-02 10:16:31 [Danny Lang] Swipe In
+2017-01-02 10:17:22 [Jeanne Lowe] Swipe In
+2017-01-02 10:17:48 [Grace Schulist] Swipe In
+2017-01-02 10:18:03 [Bailey Labadie] Swipe In
+2017-01-02 10:19:40 [Golda Murazik] Swipe Out
+2017-01-02 10:20:22 [Turner Strosin] Swipe In
+2017-01-02 10:21:15 [Dakota Gerlach] Swipe In
+2017-01-02 10:21:34 [Amya Lebsack] Swipe Out
+2017-01-02 10:21:43 [Destin Frami] Swipe Out
+2017-01-02 10:22:39 [Leone Raynor] Swipe Out
+2017-01-02 10:23:51 [Ernest Kertzmann] Swipe In
+2017-01-02 10:24:05 [Cedrick Watsica] Swipe In
+2017-01-02 10:24:42 [Jordy Olson] Swipe In
+2017-01-02 10:26:05 [Christelle Collier] Swipe Out
+2017-01-02 10:26:27 [Jaylan Schamberger] Swipe Out
+2017-01-02 10:27:26 [Leone Kilback] Swipe In
+2017-01-02 10:27:29 [Selena Balistreri] Swipe In
+2017-01-02 10:28:22 [Fay Huels] Swipe Out
+2017-01-02 10:29:11 [Brianne Schaefer] Swipe Out
+2017-01-02 10:29:51 [Dahlia Abernathy] Swipe In
+2017-01-02 10:30:45 [Vida Gibson] Swipe In
+2017-01-02 10:31:42 [Jaren Stokes] Swipe In
+2017-01-02 10:31:48 [Amya Lebsack] Swipe In
+2017-01-02 10:31:55 [Lupe Schumm] Swipe In
+2017-01-02 10:32:03 [Maverick Lebsack] Swipe In
+2017-01-02 10:32:35 [Allen Trantow] Swipe Out
+2017-01-02 10:32:41 [Hollis Lubowitz] Swipe Out
+2017-01-02 10:32:41 [Jason Effertz] Swipe Out
+2017-01-02 10:33:19 [Tyrese Paucek] Swipe In
+2017-01-02 10:34:16 [Leanna Pollich] Swipe In
+2017-01-02 10:34:23 [Monserrate Rutherford] Swipe In
+2017-01-02 10:34:58 [Ernie Reichert] Swipe Out
+2017-01-02 10:35:02 [Monique Stamm] Swipe Out
+2017-01-02 10:35:35 [Loyce Hegmann] Swipe In
+2017-01-02 10:36:16 [Kenyatta Schaefer] Swipe In
+2017-01-02 10:36:24 [Lula Thiel] Swipe In
+2017-01-02 10:36:53 [Jazmin Heidenreich] Swipe In
+2017-01-02 10:37:51 [Jettie McKenzie] Swipe In
+2017-01-02 10:38:00 [Velma Jones] Swipe In
+2017-01-02 10:38:42 [Toby Hamill] Swipe In
+2017-01-02 10:39:19 [Bret Bode] Swipe Out
+2017-01-02 10:41:37 [Britney Roob] Swipe Out
+2017-01-02 10:42:25 [Keon Pagac] Swipe In
+2017-01-02 10:42:57 [Domenick Towne] Swipe Out
+2017-01-02 10:43:55 [Carmine O'Conner] Swipe In
+2017-01-02 10:44:31 [Tom Fedder] Swipe In
+2017-01-02 10:44:55 [Christelle Collier] Swipe In
+2017-01-02 10:45:51 [Wendell Windler] Swipe In
+2017-01-02 10:45:54 [Quinton Reichel] Swipe In
+2017-01-02 10:45:58 [Ruth Wehner] Swipe In
+2017-01-02 10:45:59 [Mireya Lemke] Swipe Out
+2017-01-02 10:46:45 [Dorthy Hills] Swipe Out
+2017-01-02 10:47:22 [Brianne Schaefer] Swipe In
+2017-01-02 10:47:29 [Kevon Yost] Swipe Out
+2017-01-02 10:47:48 [Opal Boehm] Swipe Out
+2017-01-02 10:48:00 [Emie Fahey] Swipe In
+2017-01-02 10:49:16 [Kurt Collins] Swipe In
+2017-01-02 10:49:24 [Alyce Jacobs] Swipe In
+2017-01-02 10:50:57 [Eldora Hammes] Swipe In
+2017-01-02 10:52:11 [Justus Rippin] Swipe In
+2017-01-02 10:52:59 [Ari Kertzmann] Swipe In
+2017-01-02 10:53:15 [Clinton Hyatt] Swipe Out
+2017-01-02 10:53:34 [Kory Lindgren] Swipe In
+2017-01-02 10:54:05 [Lyric Weissnat] Swipe In
+2017-01-02 10:55:17 [Clement Kihn] Swipe In
+2017-01-02 10:55:20 [Destini Rice] Swipe Out
+2017-01-02 10:56:13 [Newell O'Conner] Swipe In
+2017-01-02 10:56:26 [Dorthy Hills] Swipe In
+2017-01-02 10:56:44 [Tavares Waters] Swipe In
+2017-01-02 10:58:07 [Cordelia Ortiz] Swipe Out
+2017-01-02 10:58:09 [Perry Schuster] Swipe Out
+2017-01-02 10:58:49 [Catharine Jacobi] Swipe Out
+2017-01-02 10:59:38 [Mercedes Luettgen] Swipe In
+2017-01-02 11:00:04 [Nikki Rempel] Swipe In
+2017-01-02 11:01:02 [Waldo Dooley] Swipe In
+2017-01-02 11:01:54 [Providenci Emard] Swipe In
+2017-01-02 11:02:20 [Hollis Lubowitz] Swipe In
+2017-01-02 11:02:50 [Jalen Gerlach] Swipe In
+2017-01-02 11:03:05 [Bobby Metz] Swipe In
+2017-01-02 11:03:57 [Elvera Hartmann] Swipe Out
+2017-01-02 11:04:49 [Opal Boehm] Swipe In
+2017-01-02 11:05:40 [Dewayne Farrell] Swipe In
+2017-01-02 11:06:37 [Justus Cruickshank] Swipe Out
+2017-01-02 11:06:49 [Vicky Hessel] Swipe In
+2017-01-02 11:07:15 [Milford Gutkowski] Swipe Out
+2017-01-02 11:07:56 [Kamren Reilly] Swipe In
+2017-01-02 11:08:11 [Zackary Reinger] Swipe Out
+2017-01-02 11:08:16 [Haskell Jerde] Swipe In
+2017-01-02 11:09:03 [Veda Macejkovic] Swipe Out
+2017-01-02 11:09:11 [Donny Kautzer] Swipe In
+2017-01-02 11:09:23 [Karelle Bailey] Swipe Out
+2017-01-02 11:10:14 [Alfred Jakubowski] Swipe In
+2017-01-02 11:11:20 [Desmond Gottlieb] Swipe In
+2017-01-02 11:11:35 [Avis Mertz] Swipe In
+2017-01-02 11:12:17 [Candelario Becker] Swipe In
+2017-01-02 11:12:52 [Rubie Bradtke] Swipe In
+2017-01-02 11:13:14 [Roberta Huel] Swipe Out
+2017-01-02 11:14:00 [Darian Wilkinson] Swipe In
+2017-01-02 11:14:38 [Isadore Littel] Swipe In
+2017-01-02 11:16:11 [Grant Muller] Swipe In
+2017-01-02 11:16:19 [Prince Predovic] Swipe Out
+2017-01-02 11:17:29 [Justus Cruickshank] Swipe In
+2017-01-02 11:17:55 [Viola Bogisich] Swipe Out
+2017-01-02 11:18:56 [Jackeline Wehner] Swipe In
+2017-01-02 11:19:43 [Ayden Hessel] Swipe In
+2017-01-02 11:21:09 [Tyrique Bayer] Swipe Out
+2017-01-02 11:21:23 [Aiyana Blick] Swipe Out
+2017-01-02 11:22:22 [Isaiah Cummings] Swipe Out
+2017-01-02 11:22:24 [Emerson Roob] Swipe In
+2017-01-02 11:22:50 [Maximo Hackett] Swipe In
+2017-01-02 11:23:14 [Anahi Huels] Swipe In
+2017-01-02 11:23:43 [Elody Kertzmann] Swipe In
+2017-01-02 11:24:35 [Josie Greenfelder] Swipe Out
+2017-01-02 11:24:56 [Cedrick Watsica] Swipe Out
+2017-01-02 11:25:26 [Bailey Labadie] Swipe Out
+2017-01-02 11:26:33 [Mya Weber] Swipe In
+2017-01-02 11:26:55 [Tyrique Bayer] Swipe In
+2017-01-02 11:27:01 [Susan Franecki] Swipe Out
+2017-01-02 11:27:44 [Cordelia Ortiz] Swipe In
+2017-01-02 11:28:29 [Dorothea Franecki] Swipe In
+2017-01-02 11:28:34 [Major Prohaska] Swipe In
+2017-01-02 11:28:47 [Novella Abernathy] Swipe In
+2017-01-02 11:29:11 [Fay Huels] Swipe In
+2017-01-02 11:29:35 [Aurelio Howe] Swipe In
+2017-01-02 11:29:47 [Yvette Wiegand] Swipe In
+2017-01-02 11:31:20 [Mauricio Lesch] Swipe Out
+2017-01-02 11:31:55 [Anais Sauer] Swipe In
+2017-01-02 11:32:47 [Golda Murazik] Swipe In
+2017-01-02 11:33:36 [Santina Johnston] Swipe Out
+2017-01-02 11:34:32 [Tillman Schneider] Swipe Out
+2017-01-02 11:34:54 [Ebony Quigley] Swipe Out
+2017-01-02 11:35:00 [Addison Hickle] Swipe In
+2017-01-02 11:35:29 [Jaquelin Fay] Swipe In
+2017-01-02 11:36:57 [Pamela Miller] Swipe In
+2017-01-02 11:37:14 [Turner Strosin] Swipe Out
+2017-01-02 11:37:54 [Ernie Reichert] Swipe In
+2017-01-02 11:38:04 [Dorcas Reichert] Swipe In
+2017-01-02 11:38:31 [Brennan Renner] Swipe In
+2017-01-02 11:39:30 [Dora Hand] Swipe Out
+2017-01-02 11:39:49 [Jettie McKenzie] Swipe Out
+2017-01-02 11:41:12 [Destini Rice] Swipe In
+2017-01-02 11:42:09 [Austin Pagac] Swipe Out
+2017-01-02 11:42:50 [Leanna Pollich] Swipe Out
+2017-01-02 11:43:42 [Elvera Hartmann] Swipe In
+2017-01-02 11:44:21 [Edwina Zboncak] Swipe Out
+2017-01-02 11:45:17 [Ebony Quigley] Swipe In
+2017-01-02 11:46:16 [Maverick Lebsack] Swipe Out
+2017-01-02 11:46:55 [Jody O'Kon] Swipe In
+2017-01-02 11:47:52 [Rosalinda Mante] Swipe In
+2017-01-02 11:48:21 [Grover Lebsack] Swipe In
+2017-01-02 11:49:14 [Newton Swaniawski] Swipe In
+2017-01-02 11:50:32 [Kenneth Pollich] Swipe In
+2017-01-02 11:51:30 [Santina Johnston] Swipe In
+2017-01-02 11:52:09 [Rylan Schaefer] Swipe Out
+2017-01-02 11:52:20 [Elody Larkin] Swipe Out
+2017-01-02 11:52:54 [Wendell Windler] Swipe Out
+2017-01-02 11:53:46 [Karelle Bailey] Swipe In
+2017-01-02 11:54:24 [Nora Towne] Swipe Out
+2017-01-02 11:54:57 [Haylie Dibbert] Swipe In
+2017-01-02 11:55:16 [Isabella King] Swipe In
+2017-01-02 11:55:35 [Shaylee Kreiger] Swipe Out
+2017-01-02 11:56:32 [Gerda Sanford] Swipe Out
+2017-01-02 11:57:26 [Destin Frami] Swipe In
+2017-01-02 11:57:40 [Oren Bogisich] Swipe In
+2017-01-02 11:58:27 [Toby Hamill] Swipe Out
+2017-01-02 11:58:52 [Ines Bernhard] Swipe In
+2017-01-02 11:59:19 [Lyric Weissnat] Swipe Out
+2017-01-02 11:59:20 [Cicero Wunsch] Swipe In
+2017-01-02 12:00:12 [Kory Lindgren] Swipe Out
+2017-01-02 12:00:31 [Clement Kihn] Swipe Out
+2017-01-02 12:01:28 [Jarod Rowe] Swipe Out
+2017-01-02 12:02:11 [Tillman Schneider] Swipe In
+2017-01-02 12:02:50 [Stacey Cremin] Swipe In
+2017-01-02 12:03:48 [Ruth Wehner] Swipe Out
+2017-01-02 12:04:47 [Ruth Wehner] Swipe In
+2017-01-02 12:04:55 [Nannie Schuster] Swipe Out
+2017-01-02 12:05:21 [Monique Stamm] Swipe In
+2017-01-02 12:05:37 [Maia Wilderman] Swipe Out
+2017-01-02 12:05:47 [Maia Wilderman] Swipe In
+2017-01-02 12:05:55 [Bryana Yundt] Swipe Out
+2017-01-02 12:06:41 [Dedrick Lebsack] Swipe Out
+2017-01-02 12:07:06 [Kurt Collins] Swipe Out
+2017-01-02 12:07:15 [Jaren Stokes] Swipe Out
+2017-01-02 12:07:50 [Ruben Hansen] Swipe In
+2017-01-02 12:08:04 [Fernando Hane] Swipe In
+2017-01-02 12:08:16 [Prince Predovic] Swipe In
+2017-01-02 12:08:41 [Elody Larkin] Swipe In
+2017-01-02 12:10:11 [Tom Fedder] Swipe Out
+2017-01-02 12:10:12 [Bailey Labadie] Swipe In
+2017-01-02 12:10:57 [Dagmar Farrell] Swipe Out
+2017-01-02 12:11:56 [Neil Kling] Swipe Out
+2017-01-02 12:12:53 [Carmine O'Conner] Swipe Out
+2017-01-02 12:13:17 [Kaitlin Frami] Swipe In
+2017-01-02 12:13:58 [Rubie Bradtke] Swipe Out
+2017-01-02 12:14:34 [Cordelia Cronin] Swipe Out
+2017-01-02 12:14:48 [Nora Towne] Swipe In
+2017-01-02 12:15:03 [Jaclyn Dibbert] Swipe Out
+2017-01-02 12:16:21 [Charlotte Bednar] Swipe In
+2017-01-02 12:17:25 [Tom Schaefer] Swipe Out
+2017-01-02 12:18:16 [Tyrese Paucek] Swipe Out
+2017-01-02 12:18:48 [Baylee McLaughlin] Swipe Out
+2017-01-02 12:20:35 [Arianna Reinger] Swipe Out
+2017-01-02 12:21:28 [Allie Aufderhar] Swipe In
+2017-01-02 12:21:39 [Kenyatta Schaefer] Swipe Out
+2017-01-02 12:21:42 [Waldo Dooley] Swipe Out
+2017-01-02 12:22:39 [Arianna Reinger] Swipe In
+2017-01-02 12:22:49 [Jarod Rowe] Swipe In
+2017-01-02 12:22:58 [Dora Hand] Swipe In
+2017-01-02 12:23:40 [Jason Effertz] Swipe In
+2017-01-02 12:24:16 [Maverick Lebsack] Swipe In
+2017-01-02 12:24:34 [Tobin Lowe] Swipe In
+2017-01-02 12:25:39 [Bradford Keeling] Swipe In
+2017-01-02 12:25:49 [Joel Johnston] Swipe In
+2017-01-02 12:26:08 [Aylin Schmeler] Swipe In
+2017-01-02 12:27:41 [Jaren Stokes] Swipe In
+2017-01-02 12:28:18 [Hollis Lubowitz] Swipe Out
+2017-01-02 12:28:36 [Daisha Ritchie] Swipe In
+2017-01-02 12:29:39 [Tom Fedder] Swipe In
+2017-01-02 12:29:45 [Russ Donnelly] Swipe Out
+2017-01-02 12:29:56 [Candelario Becker] Swipe Out
+2017-01-02 12:29:56 [Xzavier Schuster] Swipe In
+2017-01-02 12:30:22 [Cristobal Tromp] Swipe Out
+2017-01-02 12:31:12 [Kevon Yost] Swipe In
+2017-01-02 12:31:28 [Grace Schulist] Swipe Out
+2017-01-02 12:32:15 [Catharine Jacobi] Swipe In
+2017-01-02 12:32:35 [Isidro Nicolas] Swipe Out
+2017-01-02 12:32:56 [Rubie Bradtke] Swipe In
+2017-01-02 12:33:52 [Bobby Metz] Swipe Out
+2017-01-02 12:34:26 [Trisha Kessler] Swipe In
+2017-01-02 12:35:25 [Dahlia Abernathy] Swipe Out
+2017-01-02 12:35:47 [Keon Pagac] Swipe Out
+2017-01-02 12:35:53 [Bret Bode] Swipe In
+2017-01-02 12:36:18 [Della Breitenberg] Swipe Out
+2017-01-02 12:36:21 [Darian Wilkinson] Swipe Out
+2017-01-02 12:36:58 [Nyasia Gottlieb] Swipe Out
+2017-01-02 12:37:18 [Cedrick Watsica] Swipe In
+2017-01-02 12:38:11 [Mireya Lemke] Swipe In
+2017-01-02 12:38:36 [Jacquelyn Bogan] Swipe Out
+2017-01-02 12:40:20 [Susan Franecki] Swipe In
+2017-01-02 12:41:12 [Dakota Gerlach] Swipe Out
+2017-01-02 12:42:03 [Ayla Hand] Swipe In
+2017-01-02 12:43:25 [Brandt Bruen] Swipe Out
+2017-01-02 12:43:54 [Delbert Yost] Swipe In
+2017-01-02 12:44:31 [Alessandra Kertzmann] Swipe Out
+2017-01-02 12:45:10 [Della Breitenberg] Swipe In
+2017-01-02 12:46:04 [Ari Kertzmann] Swipe Out
+2017-01-02 12:47:46 [Shaylee Kreiger] Swipe In
+2017-01-02 12:48:00 [Raymundo Stehr] Swipe In
+2017-01-02 12:48:23 [Russ Donnelly] Swipe In
+2017-01-02 12:49:34 [Modesto Hermann] Swipe Out
+2017-01-02 12:49:55 [Murray Hauck] Swipe In
+2017-01-02 12:50:12 [Ike Koepp] Swipe Out
+2017-01-02 12:50:32 [Waldo Dooley] Swipe In
+2017-01-02 12:51:21 [Opal Boehm] Swipe Out
+2017-01-02 12:51:51 [Elijah Gleason] Swipe Out
+2017-01-02 12:52:37 [Brianne Schaefer] Swipe Out
+2017-01-02 12:53:07 [Alessandra Kertzmann] Swipe In
+2017-01-02 12:53:22 [Dorothea Franecki] Swipe Out
+2017-01-02 12:54:05 [Britney Roob] Swipe In
+2017-01-02 12:55:04 [Hope Klein] Swipe In
+2017-01-02 12:55:42 [Turner Strosin] Swipe In
+2017-01-02 12:56:10 [Briana Kiehn] Swipe In
+2017-01-02 12:56:31 [Cristobal Tromp] Swipe In
+2017-01-02 12:57:04 [Kirstin O'Connell] Swipe In
+2017-01-02 12:57:07 [Isadore Littel] Swipe Out
+2017-01-02 12:57:18 [Eldora Hammes] Swipe Out
+2017-01-02 12:57:46 [Donny Kautzer] Swipe Out
+2017-01-02 12:58:22 [Newell O'Conner] Swipe Out
+2017-01-02 12:58:28 [Lupe Schumm] Swipe Out
+2017-01-02 12:59:07 [Kaia Hegmann] Swipe In
+2017-01-02 12:59:41 [Giovani Harber] Swipe Out
+2017-01-02 13:00:02 [Jaclyn Dibbert] Swipe In
+2017-01-02 13:00:21 [Darian Wilkinson] Swipe In
+2017-01-02 13:00:27 [Dewayne Farrell] Swipe Out
+2017-01-02 13:00:32 [Kaylee Larson] Swipe Out
+2017-01-02 13:01:19 [Kory Lindgren] Swipe In
+2017-01-02 13:02:03 [Cordelia Ortiz] Swipe Out
+2017-01-02 13:02:41 [Clara Grady] Swipe In
+2017-01-02 13:03:31 [Trey Yost] Swipe In
+2017-01-02 13:03:35 [Ruth Daugherty] Swipe Out
+2017-01-02 13:04:33 [Kamren Reilly] Swipe Out
+2017-01-02 13:05:01 [Margret McGlynn] Swipe In
+2017-01-02 13:05:06 [Toby Kessler] Swipe Out
+2017-01-02 13:05:15 [Tremayne Wehner] Swipe In
+2017-01-02 13:05:22 [Leone Kilback] Swipe Out
+2017-01-02 13:05:53 [Novella Abernathy] Swipe Out
+2017-01-02 13:06:39 [Dedrick Lebsack] Swipe In
+2017-01-02 13:08:29 [Dylan D'Amore] Swipe In
+2017-01-02 13:08:47 [Waldo Flatley] Swipe In
+2017-01-02 13:09:29 [Grace Schulist] Swipe In
+2017-01-02 13:09:41 [Domenick Towne] Swipe In
+2017-01-02 13:10:36 [Jadyn Waelchi] Swipe Out
+2017-01-02 13:10:51 [Tom Wyman] Swipe In
+2017-01-02 13:11:21 [Jadyn Waelchi] Swipe In
+2017-01-02 13:12:58 [Alyce Jacobs] Swipe Out
+2017-01-02 13:12:59 [Alyce Jacobs] Swipe In
+2017-01-02 13:13:51 [Stevie Kling] Swipe In
+2017-01-02 13:14:05 [Remington Miller] Swipe In
+2017-01-02 13:14:11 [Leatha Bogan] Swipe Out
+2017-01-02 13:14:50 [Jordy Olson] Swipe Out
+2017-01-02 13:15:39 [Cordelia Ortiz] Swipe In
+2017-01-02 13:16:02 [Emie Fahey] Swipe Out
+2017-01-02 13:16:54 [Jonas Rodriguez] Swipe In
+2017-01-02 13:17:43 [Monica Kerluke] Swipe In
+2017-01-02 13:18:05 [Breanne Hauck] Swipe Out
+2017-01-02 13:18:49 [Jeanne Lowe] Swipe Out
+2017-01-02 13:20:38 [Dorothea Franecki] Swipe In
+2017-01-02 13:21:10 [Kaitlin Frami] Swipe Out
+2017-01-02 13:21:57 [Gustave Turcotte] Swipe In
+2017-01-02 13:22:01 [Alfred Jakubowski] Swipe Out
+2017-01-02 13:22:56 [Cordelia Cronin] Swipe In
+2017-01-02 13:23:40 [Emie Fahey] Swipe In
+2017-01-02 13:24:16 [Leanna Pollich] Swipe In
+2017-01-02 13:25:05 [Orval Sipes] Swipe In
+2017-01-02 13:25:14 [Jordy Olson] Swipe In
+2017-01-02 13:25:28 [Vickie Welch] Swipe In
+2017-01-02 13:25:45 [Tavares Waters] Swipe Out
+2017-01-02 13:26:47 [Kenny Wisoky] Swipe In
+2017-01-02 13:27:01 [Arlo Adams] Swipe Out
+2017-01-02 13:28:34 [Selena Balistreri] Swipe Out
+2017-01-02 13:28:56 [Dorcas Reichert] Swipe Out
+2017-01-02 13:29:46 [Talon Rath] Swipe In
+2017-01-02 13:29:50 [Rylan Schaefer] Swipe In
+2017-01-02 13:30:40 [Rosalinda Mante] Swipe Out
+2017-01-02 13:31:06 [Pamela Miller] Swipe Out
+2017-01-02 13:32:04 [Karlee Beatty] Swipe Out
+2017-01-02 13:32:42 [Mark Mosciski] Swipe In
+2017-01-02 13:32:54 [Brennan Renner] Swipe Out
+2017-01-02 13:33:53 [Opal Boehm] Swipe In
+2017-01-02 13:33:56 [Allen Trantow] Swipe In
+2017-01-02 13:34:05 [Ollie Friesen] Swipe Out
+2017-01-02 13:34:36 [Pamela Miller] Swipe In
+2017-01-02 13:35:23 [Jaren Stokes] Swipe Out
+2017-01-02 13:35:44 [Raquel Torp] Swipe In
+2017-01-02 13:36:22 [Wayne Boyle] Swipe Out
+2017-01-02 13:37:17 [Domenick Bechtelar] Swipe Out
+2017-01-02 13:38:06 [Justus Cruickshank] Swipe Out
+2017-01-02 13:38:30 [Bailey Labadie] Swipe Out
+2017-01-02 13:39:14 [Dorcas Reichert] Swipe In
+2017-01-02 13:39:23 [Chasity Tromp] Swipe In
+2017-01-02 13:40:04 [Brianne Schaefer] Swipe In
+2017-01-02 13:40:11 [Fay Huels] Swipe Out
+2017-01-02 13:40:56 [Allie Aufderhar] Swipe Out
+2017-01-02 13:41:19 [Bailey Labadie] Swipe In
+2017-01-02 13:41:50 [Tillman Schneider] Swipe Out
+2017-01-02 13:42:09 [Jovani Bartoletti] Swipe Out
+2017-01-02 13:42:26 [Dahlia Abernathy] Swipe In
+2017-01-02 13:42:42 [Jody O'Kon] Swipe Out
+2017-01-02 13:43:05 [Lura Skiles] Swipe In
+2017-01-02 13:44:01 [Edwina Zboncak] Swipe In
+2017-01-02 13:44:16 [Destin Frami] Swipe Out
+2017-01-02 13:44:24 [Jarod Rowe] Swipe Out
+2017-01-02 13:46:16 [Wendell Windler] Swipe In
+2017-01-02 13:46:22 [Alene Nikolaus] Swipe In
+2017-01-02 13:46:50 [Gerda Sanford] Swipe In
+2017-01-02 13:47:05 [Mya Weber] Swipe Out
+2017-01-02 13:47:11 [Kaylee Larson] Swipe In
+2017-01-02 13:47:58 [Breanne Hauck] Swipe In
+2017-01-02 13:48:18 [Della Breitenberg] Swipe Out
+2017-01-02 13:49:07 [Prince Predovic] Swipe Out
+2017-01-02 13:49:10 [Milford Gutkowski] Swipe In
+2017-01-02 13:49:53 [Roslyn Wiegand] Swipe In
+2017-01-02 13:51:34 [Rollin Wiegand] Swipe In
+2017-01-02 13:52:16 [Marguerite Daugherty] Swipe In
+2017-01-02 13:52:23 [Evans Ernser] Swipe Out
+2017-01-02 13:52:36 [Bobby Metz] Swipe In
+2017-01-02 13:52:37 [Steve O'Hara] Swipe In
+2017-01-02 13:52:41 [Wilhelmine Johnston] Swipe Out
+2017-01-02 13:53:31 [Monserrate Rutherford] Swipe Out
+2017-01-02 13:53:45 [Ruth Daugherty] Swipe In
+2017-01-02 13:55:15 [Baylee McLaughlin] Swipe In
+2017-01-02 13:56:01 [Amely Crona] Swipe Out
+2017-01-02 13:56:03 [Hortense Hammes] Swipe In
+2017-01-02 13:56:43 [Wayne Boyle] Swipe In
+2017-01-02 13:57:11 [Maximo Hackett] Swipe Out
+2017-01-02 13:57:48 [Yesenia D'Amore] Swipe In
+2017-01-02 13:58:35 [Velma Jones] Swipe Out
+2017-01-02 13:58:57 [Mylene Waters] Swipe In
+2017-01-02 13:59:14 [Elvera Hartmann] Swipe Out
+2017-01-02 14:00:12 [Tobin Lowe] Swipe Out
+2017-01-02 14:01:46 [Catharine Jacobi] Swipe Out
+2017-01-02 14:02:29 [Evans Ernser] Swipe In
+2017-01-02 14:03:16 [Kaia Hegmann] Swipe Out
+2017-01-02 14:04:07 [Isadore Littel] Swipe In
+2017-01-02 14:05:29 [Susan Franecki] Swipe Out
+2017-01-02 14:05:31 [Ayden Hessel] Swipe Out
+2017-01-02 14:05:35 [Rosalinda Mante] Swipe In
+2017-01-02 14:06:21 [Tyree Weissnat] Swipe Out
+2017-01-02 14:06:45 [Kaia Hegmann] Swipe In
+2017-01-02 14:07:17 [Avis Mertz] Swipe Out
+2017-01-02 14:08:15 [Ayden Hessel] Swipe In
+2017-01-02 14:08:46 [Karlee Beatty] Swipe In
+2017-01-02 14:09:41 [Santina Johnston] Swipe Out
+2017-01-02 14:10:01 [Isabella King] Swipe Out
+2017-01-02 14:10:10 [Alfred Jakubowski] Swipe In
+2017-01-02 14:10:50 [Vella Mraz] Swipe Out
+2017-01-02 14:11:18 [Jaylan Schamberger] Swipe In
+2017-01-02 14:11:49 [Mauricio Lesch] Swipe In
+2017-01-02 14:12:40 [Tavares Waters] Swipe In
+2017-01-02 14:12:52 [Oren Bogisich] Swipe Out
+2017-01-02 14:13:10 [Vida Gibson] Swipe Out
+2017-01-02 14:14:07 [Perry Schuster] Swipe In
+2017-01-02 14:14:40 [Delbert Yost] Swipe Out
+2017-01-02 14:15:25 [Kevon Yost] Swipe Out
+2017-01-02 14:15:46 [Phyllis Schmidt] Swipe Out
+2017-01-02 14:15:51 [Modesto Hermann] Swipe In
+2017-01-02 14:16:28 [Phyllis Schmidt] Swipe In
+2017-01-02 14:17:13 [Grace Schulist] Swipe Out
+2017-01-02 14:17:49 [Della Breitenberg] Swipe In
+2017-01-02 14:18:01 [Destini Rice] Swipe Out
+2017-01-02 14:18:57 [Ines Bernhard] Swipe Out
+2017-01-02 14:19:42 [Lula Thiel] Swipe Out
+2017-01-02 14:20:03 [Maverick Lebsack] Swipe Out
+2017-01-02 14:20:16 [Ruben Hansen] Swipe Out
+2017-01-02 14:20:51 [Vida Gibson] Swipe In
+2017-01-02 14:21:04 [Alfredo Carter] Swipe Out
+2017-01-02 14:21:35 [Joaquin Bauch] Swipe Out
+2017-01-02 14:22:34 [Fernando Hane] Swipe Out
+2017-01-02 14:23:23 [Tyrese Paucek] Swipe In
+2017-01-02 14:24:03 [Cicero Wunsch] Swipe Out
+2017-01-02 14:25:10 [Hershel Nienow] Swipe In
+2017-01-02 14:25:12 [Austin Pagac] Swipe In
+2017-01-02 14:27:07 [Quinton Reichel] Swipe Out
+2017-01-02 14:27:10 [Jettie McKenzie] Swipe In
+2017-01-02 14:27:23 [Danny Lang] Swipe Out
+2017-01-02 14:27:54 [Miller Rowe] Swipe In
+2017-01-02 14:27:56 [Dora Hand] Swipe Out
+2017-01-02 14:28:36 [Thomas Stroman] Swipe Out
+2017-01-02 14:28:57 [Ocie Emard] Swipe In
+2017-01-02 14:29:55 [Cedrick Watsica] Swipe Out
+2017-01-02 14:31:17 [Trenton Haag] Swipe Out
+2017-01-02 14:31:37 [Kamren Reilly] Swipe In
+2017-01-02 14:32:29 [Raymundo Stehr] Swipe Out
+2017-01-02 14:33:24 [Saige Franecki] Swipe In
+2017-01-02 14:34:07 [Danny Nitzsche] Swipe In
+2017-01-02 14:34:39 [Vella Mraz] Swipe In
+2017-01-02 14:35:11 [Mya Weber] Swipe In
+2017-01-02 14:35:24 [Ivah DuBuque] Swipe Out
+2017-01-02 14:35:46 [Ebony Quigley] Swipe Out
+2017-01-02 14:35:47 [Jody O'Kon] Swipe In
+2017-01-02 14:35:53 [Jovani Bartoletti] Swipe In
+2017-01-02 14:36:40 [Kenyatta Schaefer] Swipe In
+2017-01-02 14:38:24 [Emie Fahey] Swipe Out
+2017-01-02 14:38:45 [Leone Kilback] Swipe In
+2017-01-02 14:39:09 [Jess Wehner] Swipe In
+2017-01-02 14:39:55 [Danny Lang] Swipe In
+2017-01-02 14:40:35 [Lawrence Lueilwitz] Swipe Out
+2017-01-02 14:41:29 [Maverick Lebsack] Swipe In
+2017-01-02 14:42:08 [Priscilla Kohler] Swipe In
+2017-01-02 14:43:59 [Lupe Schumm] Swipe In
+2017-01-02 14:44:48 [Selena Balistreri] Swipe In
+2017-01-02 14:45:03 [Ari Kertzmann] Swipe In
+2017-01-02 14:45:57 [Gustave Turcotte] Swipe Out
+2017-01-02 14:46:02 [Lula Thiel] Swipe In
+2017-01-02 14:46:54 [Lydia Considine] Swipe Out
+2017-01-02 14:47:25 [Jadyn Waelchi] Swipe Out
+2017-01-02 14:48:43 [Murray Hauck] Swipe Out
+2017-01-02 14:48:57 [Aurelio Howe] Swipe Out
+2017-01-02 14:49:35 [Major Prohaska] Swipe Out
+2017-01-02 14:49:41 [Mackenzie Zieme] Swipe Out
+2017-01-02 14:50:18 [Isaiah Cummings] Swipe In
+2017-01-02 14:50:40 [Wilhelmine Johnston] Swipe In
+2017-01-02 14:51:38 [Hollis Lubowitz] Swipe In
+2017-01-02 14:51:45 [Dorothea Franecki] Swipe Out
+2017-01-02 14:51:47 [Keon Pagac] Swipe In
+2017-01-02 14:52:08 [Aiyana Blick] Swipe In
+2017-01-02 14:52:58 [Trisha Kessler] Swipe Out
+2017-01-02 14:53:54 [Jason Effertz] Swipe Out
+2017-01-02 14:54:51 [Briana Kiehn] Swipe Out
+2017-01-02 14:55:42 [Brandt Bruen] Swipe In
+2017-01-02 14:55:55 [Clement Kihn] Swipe In
+2017-01-02 14:56:28 [Ebony Quigley] Swipe In
+2017-01-02 14:57:14 [Roberta Huel] Swipe In
+2017-01-02 14:57:25 [Eryn Wunsch] Swipe In
+2017-01-02 14:58:11 [Dorcas Reichert] Swipe Out
+2017-01-02 14:58:29 [Tyrique Bayer] Swipe Out
+2017-01-02 14:59:15 [Aurelio Howe] Swipe In
+2017-01-02 14:59:42 [Waldo Dooley] Swipe Out
+2017-01-02 15:00:12 [Kurt Collins] Swipe In
+2017-01-02 15:01:10 [Jalen Gerlach] Swipe Out
+2017-01-02 15:03:04 [Orval Sipes] Swipe Out
+2017-01-02 15:04:03 [Cordelia Cronin] Swipe Out
+2017-01-02 15:04:05 [Maxine Reichel] Swipe In
+2017-01-02 15:05:01 [Charlotte Bednar] Swipe Out
+2017-01-02 15:05:48 [Dagmar Farrell] Swipe In
+2017-01-02 15:06:13 [Steve O'Hara] Swipe Out
+2017-01-02 15:06:59 [Ervin Wuckert] Swipe In
+2017-01-02 15:07:25 [Percival Wolf] Swipe In
+2017-01-02 15:08:13 [Delbert Yost] Swipe In
+2017-01-02 15:08:40 [Florine Grimes] Swipe In
+2017-01-02 15:12:26 [Kenna Graham] Swipe In
+2017-01-02 15:12:50 [Chasity Tromp] Swipe Out
+2017-01-02 15:13:17 [Toby Kessler] Swipe In
+2017-01-02 15:14:14 [Maximo Hackett] Swipe In
+2017-01-02 15:14:23 [Karelle Bailey] Swipe Out
+2017-01-02 15:14:57 [Donny Kautzer] Swipe In
+2017-01-02 15:15:46 [Dakota Gerlach] Swipe In
+2017-01-02 15:16:23 [Maia Wilderman] Swipe Out
+2017-01-02 15:16:39 [Golda Murazik] Swipe Out
+2017-01-02 15:16:42 [Haskell Jerde] Swipe Out
+2017-01-02 15:18:21 [Loyce Hegmann] Swipe Out
+2017-01-02 15:19:00 [Zackary Reinger] Swipe In
+2017-01-02 15:19:26 [Mireya Lemke] Swipe Out
+2017-01-02 15:19:48 [Jaquelin Fay] Swipe Out
+2017-01-02 15:21:09 [Brianne Schaefer] Swipe Out
+2017-01-02 15:21:32 [Remington Miller] Swipe Out
+2017-01-02 15:22:01 [Rubie Bradtke] Swipe Out
+2017-01-02 15:23:24 [Jackeline Wehner] Swipe Out
+2017-01-02 15:23:33 [Sam Rutherford] Swipe In
+2017-01-02 15:24:05 [Raquel Torp] Swipe Out
+2017-01-02 15:24:51 [Joaquin Bauch] Swipe In
+2017-01-02 15:25:33 [Cicero Wunsch] Swipe In
+2017-01-02 15:27:01 [Quinton Reichel] Swipe In
+2017-01-02 15:27:29 [Major Prohaska] Swipe In
+2017-01-02 15:27:40 [Clemmie Metz] Swipe In
+2017-01-02 15:28:32 [Santina Johnston] Swipe In
+2017-01-02 15:29:09 [Ike Koepp] Swipe In
+2017-01-02 15:29:58 [Christelle Collier] Swipe Out
+2017-01-02 15:30:44 [Pamela Miller] Swipe Out
+2017-01-02 15:31:08 [Emerson Roob] Swipe Out
+2017-01-02 15:31:37 [Jody McCullough] Swipe Out
+2017-01-02 15:32:40 [Remington Miller] Swipe In
+2017-01-02 15:33:03 [Vida Gibson] Swipe Out
+2017-01-02 15:33:53 [Elouise Pouros] Swipe In
+2017-01-02 15:34:19 [Stacy Thiel] Swipe In
+2017-01-02 15:35:12 [Rae Zulauf] Swipe In
+2017-01-02 15:35:46 [Domenick Towne] Swipe Out
+2017-01-02 15:36:23 [Jody O'Kon] Swipe Out
+2017-01-02 15:37:05 [Margret McGlynn] Swipe Out
+2017-01-02 15:37:18 [Eldora Hammes] Swipe In
+2017-01-02 15:37:51 [Murray Hauck] Swipe In
+2017-01-02 15:38:41 [Stacey Cremin] Swipe Out
+2017-01-02 15:38:59 [Saige Franecki] Swipe Out
+2017-01-02 15:39:11 [Jadyn Waelchi] Swipe In
+2017-01-02 15:39:34 [Veda Macejkovic] Swipe In
+2017-01-02 15:39:38 [Bradford Keeling] Swipe Out
+2017-01-02 15:40:20 [Amani Langworth] Swipe In
+2017-01-02 15:40:41 [Desmond Gottlieb] Swipe Out
+2017-01-02 15:41:54 [Perry Schuster] Swipe Out
+2017-01-02 15:42:19 [Bradford Keeling] Swipe In
+2017-01-02 15:42:54 [Ruth Daugherty] Swipe Out
+2017-01-02 15:43:20 [Annabell Mosciski] Swipe Out
+2017-01-02 15:43:26 [Kaitlin Frami] Swipe In
+2017-01-02 15:43:56 [Elody Kertzmann] Swipe Out
+2017-01-02 15:45:06 [Monica Kerluke] Swipe Out
+2017-01-02 15:45:42 [Loyce Hegmann] Swipe In
+2017-01-02 15:46:19 [Steve O'Hara] Swipe In
+2017-01-02 15:46:54 [Golda Murazik] Swipe In
+2017-01-02 15:47:03 [Josie Greenfelder] Swipe In
+2017-01-02 15:47:05 [Karolann Mante] Swipe Out
+2017-01-02 15:48:10 [Tom Schaefer] Swipe In
+2017-01-02 15:49:08 [Waldo Flatley] Swipe Out
+2017-01-02 15:50:03 [Dora Hand] Swipe In
+2017-01-02 15:51:00 [Mauricio Lesch] Swipe Out
+2017-01-02 15:51:24 [Jaclyn Dibbert] Swipe Out
+2017-01-02 15:52:23 [Alexanne Kuvalis] Swipe In
+2017-01-02 15:53:21 [Maverick Lebsack] Swipe Out
+2017-01-02 15:54:03 [Alessandra Kertzmann] Swipe Out
+2017-01-02 15:54:33 [Bobby Metz] Swipe Out
+2017-01-02 15:55:30 [Ayden Hessel] Swipe Out
+2017-01-02 15:56:08 [Tillman Schneider] Swipe In
+2017-01-02 15:56:21 [Jacquelyn Bogan] Swipe In
+2017-01-02 15:57:18 [Emie Fahey] Swipe In
+2017-01-02 15:58:17 [Rosalinda Mante] Swipe Out
+2017-01-02 15:59:08 [Orpha Hirthe] Swipe Out
+2017-01-02 15:59:19 [Hope Klein] Swipe Out
+2017-01-02 15:59:26 [Novella Abernathy] Swipe In
+2017-01-02 16:01:30 [Tom Fedder] Swipe Out
+2017-01-02 16:03:42 [Vella Mraz] Swipe Out
+2017-01-02 16:04:04 [Tremayne Wehner] Swipe Out
+2017-01-02 16:04:16 [Joel Johnston] Swipe Out
+2017-01-02 16:05:46 [Ernest Kertzmann] Swipe Out
+2017-01-02 16:06:14 [Leone Kilback] Swipe Out
+2017-01-02 16:06:47 [Jazmin Heidenreich] Swipe Out
+2017-01-02 16:07:07 [Karlee Beatty] Swipe Out
+2017-01-02 16:07:38 [Ebony Quigley] Swipe Out
+2017-01-02 16:07:54 [Tom Wyman] Swipe Out
+2017-01-02 16:08:42 [Kamren Reilly] Swipe Out
+2017-01-02 16:09:09 [Danny Lang] Swipe Out
+2017-01-02 16:09:20 [Elody Larkin] Swipe Out
+2017-01-02 16:11:53 [Aiyana Blick] Swipe Out
+2017-01-02 16:14:59 [Tyrese Paucek] Swipe Out
+2017-01-02 16:15:28 [Tavares Waters] Swipe Out
+2017-01-02 16:18:49 [Norris Maggio] Swipe Out
+2017-01-02 16:18:56 [Athena Adams] Swipe Out
+2017-01-02 16:20:03 [Haylie Dibbert] Swipe Out
+2017-01-02 16:20:41 [Donny Kautzer] Swipe Out
+2017-01-02 16:21:29 [Ernie Reichert] Swipe Out
+2017-01-02 16:24:31 [Selena Balistreri] Swipe Out
+2017-01-02 16:25:16 [Amya Lebsack] Swipe Out
+2017-01-02 16:26:06 [Hershel Nienow] Swipe Out
+2017-01-02 16:26:29 [Jovani Bartoletti] Swipe Out
+2017-01-02 16:26:40 [Alfred Jakubowski] Swipe Out
+2017-01-02 16:26:48 [Kenyatta Schaefer] Swipe Out
+2017-01-02 16:27:10 [Clara Grady] Swipe Out
+2017-01-02 16:27:34 [Lura Skiles] Swipe Out
+2017-01-02 16:28:23 [Russ Donnelly] Swipe Out
+2017-01-02 16:30:04 [Roberta Huel] Swipe Out
+2017-01-02 16:31:44 [Evans Ernser] Swipe Out
+2017-01-02 16:34:03 [Phyllis Schmidt] Swipe Out
+2017-01-02 16:34:53 [Roslyn Wiegand] Swipe Out
+2017-01-02 16:40:47 [Remington Miller] Swipe Out
+2017-01-02 16:41:33 [Aurelio Howe] Swipe Out
+2017-01-02 16:42:11 [Orion Vandervort] Swipe Out
+2017-01-02 16:42:45 [Alene Nikolaus] Swipe Out
+2017-01-02 16:43:01 [Mark Mosciski] Swipe Out
+2017-01-02 16:43:14 [Trey Yost] Swipe Out
+2017-01-02 16:44:43 [Ernie Huel] Swipe Out
+2017-01-02 16:46:07 [Wendell Windler] Swipe Out
+2017-01-02 16:47:06 [Priscilla Kohler] Swipe Out
+2017-01-02 16:47:12 [Roslyn Strosin] Swipe Out
+2017-01-02 16:48:14 [Della Zieme] Swipe Out
+2017-01-02 16:48:40 [Kenny Wisoky] Swipe Out
+2017-01-02 16:49:11 [Bradford Keeling] Swipe Out
+2017-01-02 16:50:35 [Kenneth Pollich] Swipe Out
+2017-01-02 16:52:12 [Monique Stamm] Swipe Out
+2017-01-02 16:54:52 [Anahi Huels] Swipe Out
+2017-01-02 16:54:56 [Stacy Thiel] Swipe Out
+2017-01-02 16:56:11 [Valentina Rosenbaum] Swipe Out
+2017-01-02 16:58:52 [Josie Greenfelder] Swipe Out
+2017-01-02 17:00:55 [Dahlia Abernathy] Swipe Out
+2017-01-02 17:03:43 [Kaylee Larson] Swipe Out
+2017-01-02 17:04:14 [Wilhelmine Johnston] Swipe Out
+2017-01-02 17:09:09 [Felton Williamson] Swipe Out
+2017-01-02 17:10:03 [Dylan D'Amore] Swipe Out
+2017-01-02 17:11:24 [Allen Trantow] Swipe Out
+2017-01-02 17:12:14 [Zackary Reinger] Swipe Out
+2017-01-02 17:13:59 [Johnny Keebler] Swipe Out
+2017-01-02 17:14:38 [Jess Wehner] Swipe Out
+2017-01-02 17:15:37 [Mya Weber] Swipe Out
+2017-01-02 17:17:02 [Santina Johnston] Swipe Out
+2017-01-02 17:20:50 [Jonas Rodriguez] Swipe Out
+2017-01-02 17:23:22 [Cristobal Tromp] Swipe Out
+2017-01-02 17:23:28 [Opal Boehm] Swipe Out
+2017-01-02 17:27:14 [Dakota Gerlach] Swipe Out
+2017-01-02 17:28:31 [Rylan Schaefer] Swipe Out
+2017-01-02 17:28:56 [Shaylee Kreiger] Swipe Out
+2017-01-02 17:30:32 [Lula Thiel] Swipe Out
+2017-01-02 17:31:44 [Rae Zulauf] Swipe Out
+2017-01-02 17:33:54 [Wilson Walter] Swipe Out
+2017-01-02 17:34:06 [Elouise Pouros] Swipe Out
+2017-01-02 17:34:32 [Milford Gutkowski] Swipe Out
+2017-01-02 17:36:51 [Kirstin O'Connell] Swipe Out
+2017-01-02 17:37:35 [Yesenia D'Amore] Swipe Out
+2017-01-02 17:40:02 [Grant Muller] Swipe Out
+2017-01-02 17:43:36 [Amani Langworth] Swipe Out
+2017-01-02 17:44:03 [Gerda Sanford] Swipe Out
+2017-01-02 17:44:51 [Jordy Olson] Swipe Out
+2017-01-02 17:45:29 [Alyce Jacobs] Swipe Out
+2017-01-02 17:46:12 [Veda Macejkovic] Swipe Out
+2017-01-02 17:46:53 [Marguerite Daugherty] Swipe Out
+2017-01-02 17:49:09 [Providenci Emard] Swipe Out
+2017-01-02 17:53:41 [Jettie McKenzie] Swipe Out
+2017-01-02 17:54:33 [Hollis Lubowitz] Swipe Out
+2017-01-02 17:56:43 [Ari Kertzmann] Swipe Out
+2017-01-02 17:58:11 [Annamarie Stamm] Swipe Out
+2017-01-02 18:08:57 [Alexanne Kuvalis] Swipe Out
+2017-01-02 18:12:29 [Kaitlin Frami] Swipe Out
+2017-01-02 18:19:58 [Ocie Emard] Swipe Out
+2017-01-02 18:28:04 [Lupe Schumm] Swipe Out
+2017-01-02 18:35:58 [Hortense Hammes] Swipe Out
+2017-01-02 18:46:49 [Loyce Hegmann] Swipe Out
+2017-01-02 18:51:51 [Toby Kessler] Swipe Out
+2017-01-02 08:50:42 [Ruben Hansen] Access 84.88.124.9 - 29427KB
+2017-01-02 08:57:37 [Edwin Brekke] Access 225.100.174.245 - 6266KB
+2017-01-02 09:01:33 [Golda Murazik] Access 125.113.222.205 - 43149KB
+2017-01-02 09:08:40 [Tyree Weissnat] Access 137.66.126.223 - 55098KB
+2017-01-02 09:14:14 [Edwin Brekke] Access 254.82.169.249 - 13918KB
+2017-01-02 09:14:46 [Nora Towne] Access 5.155.192.185 - 24507KB
+2017-01-02 09:24:54 [Kaia Hegmann] Access 44.185.152.215 - 73913KB
+2017-01-02 09:26:24 [Kaia Hegmann] Access 22.128.98.72 - 44461KB
+2017-01-02 09:26:51 [Sammy Klein] Access 130.231.134.63 - 13591KB
+2017-01-02 09:29:19 [Wilhelmine Johnston] Access 47.156.197.60 - 19880KB
+2017-01-02 09:31:25 [Jacquelyn Bogan] Access 244.184.100.153 - 11406KB
+2017-01-02 09:33:46 [Destin Frami] Access 157.44.44.135 - 29691KB
+2017-01-02 09:33:59 [Thomas Stroman] Access 75.149.137.201 - 76006KB
+2017-01-02 09:34:35 [Catharine Jacobi] Access 185.189.15.12 - 46448KB
+2017-01-02 09:38:32 [Boris Stroman] Access 23.136.233.50 - 45011KB
+2017-01-02 09:40:16 [Leone Raynor] Access 47.57.143.164 - 53279KB
+2017-01-02 09:45:05 [Prince Predovic] Access 131.57.174.179 - 2663KB
+2017-01-02 09:45:05 [Perry Schuster] Access 7.104.31.227 - 99016KB
+2017-01-02 09:45:35 [Annabell Mosciski] Access 180.121.144.72 - 34531KB
+2017-01-02 09:50:12 [Mireya Lemke] Access 117.68.128.17 - 42183KB
+2017-01-02 09:50:48 [Norris Maggio] Access 81.74.134.203 - 78769KB
+2017-01-02 09:50:52 [Elody Larkin] Access 219.150.47.15 - 20572KB
+2017-01-02 09:54:19 [Hollis Lubowitz] Access 23.112.20.193 - 47663KB
+2017-01-02 09:55:39 [Jody McCullough] Access 211.156.254.10 - 69875KB
+2017-01-02 09:57:10 [Vella Mraz] Access 107.65.168.79 - 56113KB
+2017-01-02 09:57:54 [Norris Maggio] Access 103.61.118.186 - 32819KB
+2017-01-02 10:02:47 [Opal Boehm] Access 145.104.62.208 - 46702KB
+2017-01-02 10:02:52 [Dagmar Farrell] Access 181.113.215.41 - 64951KB
+2017-01-02 10:04:06 [Valentina Rosenbaum] Access 7.174.146.201 - 16763KB
+2017-01-02 10:04:32 [Rylan Schaefer] Access 36.151.255.87 - 19061KB
+2017-01-02 10:05:16 [Dorthy Hills] Access 20.108.253.115 - 65238KB
+2017-01-02 10:06:16 [Tyrique Bayer] Access 208.20.179.154 - 78035KB
+2017-01-02 10:09:51 [Arlo Adams] Access 232.153.205.69 - 41712KB
+2017-01-02 10:10:44 [Roslyn Strosin] Access 64.132.255.6 - 90352KB
+2017-01-02 10:18:44 [Russ Donnelly] Access 190.86.25.222 - 16970KB
+2017-01-02 10:23:10 [Edwina Zboncak] Access 215.22.195.223 - 33112KB
+2017-01-02 10:25:06 [Wilson Walter] Access 143.37.152.76 - 59575KB
+2017-01-02 10:26:17 [Johnny Keebler] Access 66.70.80.226 - 18772KB
+2017-01-02 10:35:21 [Domenick Bechtelar] Access 155.137.20.72 - 35503KB
+2017-01-02 10:35:30 [Elody Larkin] Access 225.194.81.133 - 56480KB
+2017-01-02 10:40:09 [Leatha Bogan] Access 211.130.102.91 - 24541KB
+2017-01-02 10:41:00 [Loyce Hegmann] Access 197.228.22.41 - 23171KB
+2017-01-02 10:48:36 [Arlo Adams] Access 211.150.158.141 - 91229KB
+2017-01-02 10:48:58 [Ivah DuBuque] Access 85.181.117.254 - 75952KB
+2017-01-02 10:49:58 [Jeanne Lowe] Access 74.83.203.19 - 6500KB
+2017-01-02 10:50:25 [Ernest Kertzmann] Access 38.227.31.213 - 76473KB
+2017-01-02 10:51:27 [Jettie McKenzie] Access 241.88.35.245 - 13950KB
+2017-01-02 10:52:25 [Isidro Nicolas] Access 138.251.207.83 - 44374KB
+2017-01-02 10:53:20 [Ernest Kertzmann] Access 35.121.100.2 - 37448KB
+2017-01-02 10:54:54 [Turner Strosin] Access 138.52.190.112 - 57374KB
+2017-01-02 10:55:15 [Brianne Schaefer] Access 108.148.251.10 - 52103KB
+2017-01-02 10:55:37 [Tyrese Paucek] Access 142.0.4.104 - 63644KB
+2017-01-02 10:57:37 [Isidro Nicolas] Access 164.64.112.22 - 82058KB
+2017-01-02 10:57:37 [Velma Jones] Access 110.118.76.129 - 88258KB
+2017-01-02 11:02:28 [Leone Kilback] Access 84.103.154.47 - 18792KB
+2017-01-02 11:02:46 [Providenci Emard] Access 161.206.249.116 - 450KB
+2017-01-02 11:05:23 [Jalen Gerlach] Access 187.219.240.115 - 62848KB
+2017-01-02 11:10:32 [Nikki Rempel] Access 18.245.77.210 - 65861KB
+2017-01-02 11:15:19 [Mercedes Luettgen] Access 7.31.197.16 - 2948KB
+2017-01-02 11:15:49 [Bobby Metz] Access 239.85.244.160 - 93829KB
+2017-01-02 11:16:27 [Kamren Reilly] Access 69.169.185.120 - 12959KB
+2017-01-02 11:17:04 [Leone Kilback] Access 51.45.242.253 - 26809KB
+2017-01-02 11:17:25 [Maverick Lebsack] Access 135.226.14.252 - 24290KB
+2017-01-02 11:18:43 [Candelario Becker] Access 226.226.153.77 - 92725KB
+2017-01-02 11:20:24 [Justus Cruickshank] Access 90.123.212.107 - 82178KB
+2017-01-02 11:22:45 [Selena Balistreri] Access 54.111.120.201 - 65769KB
+2017-01-02 11:24:21 [Jalen Gerlach] Access 53.199.177.162 - 37724KB
+2017-01-02 11:26:17 [Anahi Huels] Access 126.244.177.54 - 10383KB
+2017-01-02 11:28:17 [Emie Fahey] Access 18.172.199.29 - 96898KB
+2017-01-02 11:30:36 [Tom Fedder] Access 1.38.5.15 - 9046KB
+2017-01-02 11:33:28 [Anais Sauer] Access 153.85.129.47 - 27922KB
+2017-01-02 11:36:26 [Jalen Gerlach] Access 241.108.76.14 - 83659KB
+2017-01-02 11:36:45 [Tom Fedder] Access 131.166.74.208 - 76295KB
+2017-01-02 11:40:27 [Eldora Hammes] Access 137.43.193.70 - 55670KB
+2017-01-02 11:44:22 [Ayden Hessel] Access 109.194.240.13 - 76347KB
+2017-01-02 11:44:34 [Elody Kertzmann] Access 123.190.62.123 - 83216KB
+2017-01-02 11:49:22 [Kamren Reilly] Access 143.6.123.163 - 96913KB
+2017-01-02 11:49:51 [Elvera Hartmann] Access 235.209.49.239 - 77112KB
+2017-01-02 11:50:54 [Ebony Quigley] Access 28.153.147.170 - 89141KB
+2017-01-02 11:52:50 [Jaquelin Fay] Access 243.136.54.75 - 38991KB
+2017-01-02 11:54:08 [Clement Kihn] Access 61.171.235.246 - 77305KB
+2017-01-02 11:58:35 [Isadore Littel] Access 93.130.248.187 - 78108KB
+2017-01-02 12:01:41 [Jody O'Kon] Access 39.32.118.65 - 56538KB
+2017-01-02 12:08:19 [Jaquelin Fay] Access 90.242.253.117 - 23769KB
+2017-01-02 12:09:15 [Major Prohaska] Access 228.210.254.139 - 53668KB
+2017-01-02 12:15:31 [Tillman Schneider] Access 55.3.187.78 - 73464KB
+2017-01-02 12:16:54 [Anais Sauer] Access 255.121.0.107 - 81197KB
+2017-01-02 12:19:40 [Elvera Hartmann] Access 214.215.28.94 - 54255KB
+2017-01-02 12:24:49 [Mya Weber] Access 187.241.214.129 - 30609KB
+2017-01-02 12:26:20 [Nora Towne] Access 32.232.3.106 - 16750KB
+2017-01-02 12:26:58 [Elvera Hartmann] Access 51.143.144.128 - 19464KB
+2017-01-02 12:29:23 [Oren Bogisich] Access 231.14.103.161 - 44465KB
+2017-01-02 12:29:39 [Oren Bogisich] Access 154.190.92.43 - 80481KB
+2017-01-02 12:30:46 [Fernando Hane] Access 106.46.97.241 - 33289KB
+2017-01-02 12:39:29 [Karelle Bailey] Access 224.98.109.61 - 85832KB
+2017-01-02 12:42:51 [Monique Stamm] Access 247.46.106.99 - 23255KB
+2017-01-02 12:43:49 [Susan Franecki] Access 124.133.2.137 - 53122KB
+2017-01-02 12:46:59 [Allie Aufderhar] Access 135.111.168.152 - 14263KB
+2017-01-02 12:49:19 [Kevon Yost] Access 51.27.245.35 - 35689KB
+2017-01-02 12:49:35 [Tom Fedder] Access 176.46.48.25 - 81900KB
+2017-01-02 12:52:47 [Trisha Kessler] Access 1.155.245.171 - 72204KB
+2017-01-02 12:57:36 [Charlotte Bednar] Access 167.193.109.56 - 85014KB
+2017-01-02 13:04:28 [Cristobal Tromp] Access 93.164.180.62 - 80720KB
+2017-01-02 13:07:32 [Bailey Labadie] Access 192.29.91.30 - 60915KB
+2017-01-02 13:12:17 [Domenick Towne] Access 194.195.76.90 - 35250KB
+2017-01-02 13:15:31 [Grace Schulist] Access 56.246.79.6 - 89935KB
+2017-01-02 13:19:35 [Tobin Lowe] Access 209.162.52.137 - 94336KB
+2017-01-02 13:19:50 [Daisha Ritchie] Access 161.145.37.23 - 4721KB
+2017-01-02 13:23:05 [Tremayne Wehner] Access 9.229.25.183 - 14941KB
+2017-01-02 13:25:14 [Britney Roob] Access 250.24.143.120 - 12185KB
+2017-01-02 13:26:15 [Vickie Welch] Access 226.215.86.5 - 56174KB
+2017-01-02 13:26:34 [Xzavier Schuster] Access 19.200.157.166 - 41292KB
+2017-01-02 13:27:31 [Emie Fahey] Access 7.14.28.185 - 1272KB
+2017-01-02 13:27:50 [Shaylee Kreiger] Access 154.156.99.222 - 22007KB
+2017-01-02 13:31:51 [Trey Yost] Access 190.84.115.77 - 1289KB
+2017-01-02 13:38:42 [Shaylee Kreiger] Access 160.239.183.219 - 24173KB
+2017-01-02 13:39:06 [Clara Grady] Access 84.127.249.29 - 43289KB
+2017-01-02 13:40:33 [Kory Lindgren] Access 191.196.227.131 - 19176KB
+2017-01-02 13:45:10 [Vickie Welch] Access 40.60.98.250 - 76719KB
+2017-01-02 13:46:02 [Dorothea Franecki] Access 123.15.145.188 - 4440KB
+2017-01-02 13:50:40 [Briana Kiehn] Access 175.182.17.30 - 6492KB
+2017-01-02 13:52:09 [Breanne Hauck] Access 202.146.52.28 - 11975KB
+2017-01-02 13:54:43 [Orval Sipes] Access 236.48.24.40 - 30849KB
+2017-01-02 14:01:03 [Lura Skiles] Access 58.18.233.2 - 67443KB
+2017-01-02 14:04:56 [Roslyn Wiegand] Access 125.64.5.240 - 88194KB
+2017-01-02 14:05:10 [Marguerite Daugherty] Access 214.25.171.175 - 93930KB
+2017-01-02 14:06:25 [Waldo Flatley] Access 11.26.47.184 - 33782KB
+2017-01-02 14:08:00 [Kenny Wisoky] Access 15.208.166.220 - 54198KB
+2017-01-02 14:08:10 [Baylee McLaughlin] Access 42.242.222.20 - 78669KB
+2017-01-02 14:08:27 [Evans Ernser] Access 89.217.181.195 - 57964KB
+2017-01-02 14:24:18 [Vida Gibson] Access 42.193.37.202 - 75702KB
+2017-01-02 14:24:31 [Allen Trantow] Access 153.22.125.179 - 76775KB
+2017-01-02 14:26:04 [Wendell Windler] Access 174.211.197.20 - 7269KB
+2017-01-02 14:26:37 [Isadore Littel] Access 80.31.188.162 - 51720KB
+2017-01-02 14:30:30 [Breanne Hauck] Access 155.71.43.135 - 56046KB
+2017-01-02 14:37:30 [Rosalinda Mante] Access 9.154.67.214 - 89350KB
+2017-01-02 14:40:08 [Isadore Littel] Access 100.91.179.44 - 88217KB
+2017-01-02 14:42:50 [Ayden Hessel] Access 228.233.255.87 - 88857KB
+2017-01-02 14:43:40 [Bobby Metz] Access 120.130.29.132 - 70655KB
+2017-01-02 14:43:52 [Steve O'Hara] Access 91.244.35.49 - 29554KB
+2017-01-02 14:46:47 [Austin Pagac] Access 254.165.67.128 - 30709KB
+2017-01-02 14:48:13 [Milford Gutkowski] Access 195.255.43.60 - 92322KB
+2017-01-02 14:53:28 [Modesto Hermann] Access 202.250.176.179 - 95483KB
+2017-01-02 14:56:08 [Alfred Jakubowski] Access 208.152.67.77 - 9887KB
+2017-01-02 14:56:17 [Della Breitenberg] Access 188.244.57.3 - 37562KB
+2017-01-02 15:02:05 [Aiyana Blick] Access 230.243.210.237 - 5586KB
+2017-01-02 15:02:39 [Ebony Quigley] Access 206.177.41.160 - 82780KB
+2017-01-02 15:09:34 [Tavares Waters] Access 130.218.104.184 - 70234KB
+2017-01-02 15:10:30 [Danny Lang] Access 239.160.210.124 - 43491KB
+2017-01-02 15:10:41 [Aiyana Blick] Access 33.61.77.217 - 79251KB
+2017-01-02 15:11:37 [Leone Kilback] Access 238.112.218.7 - 8386KB
+2017-01-02 15:17:22 [Leone Kilback] Access 46.44.45.177 - 14403KB
+2017-01-02 15:18:10 [Jess Wehner] Access 76.135.142.182 - 9993KB
+2017-01-02 15:20:38 [Jettie McKenzie] Access 96.232.52.252 - 17109KB
+2017-01-02 15:22:52 [Mya Weber] Access 66.124.254.228 - 66686KB
+2017-01-02 15:26:05 [Kamren Reilly] Access 153.232.26.56 - 69686KB
+2017-01-02 15:27:08 [Maverick Lebsack] Access 46.120.154.44 - 10770KB
+2017-01-02 15:27:52 [Aurelio Howe] Access 129.124.199.228 - 26837KB
+2017-01-02 15:31:14 [Ike Koepp] Access 67.5.150.11 - 59323KB
+2017-01-02 15:31:19 [Kenna Graham] Access 123.26.175.178 - 69388KB
+2017-01-02 15:32:22 [Hollis Lubowitz] Access 41.194.86.250 - 4767KB
+2017-01-02 15:34:28 [Roberta Huel] Access 25.0.53.80 - 55877KB
+2017-01-02 15:41:00 [Maxine Reichel] Access 210.117.199.97 - 27585KB
+2017-01-02 15:44:48 [Santina Johnston] Access 207.230.25.220 - 79193KB
+2017-01-02 15:47:38 [Dakota Gerlach] Access 115.163.217.112 - 68896KB
+2017-01-02 15:53:30 [Dakota Gerlach] Access 254.32.68.103 - 89397KB
+2017-01-02 15:54:46 [Murray Hauck] Access 45.28.133.217 - 14486KB
+2017-01-02 15:54:53 [Aurelio Howe] Access 47.220.230.14 - 60260KB
+2017-01-02 15:59:42 [Kurt Collins] Access 51.82.12.122 - 67518KB
+2017-01-02 16:00:57 [Maxine Reichel] Access 130.88.57.36 - 58597KB
+2017-01-02 16:01:10 [Loyce Hegmann] Access 193.42.27.49 - 65462KB
+2017-01-02 16:02:59 [Clemmie Metz] Access 77.167.178.106 - 9156KB
+2017-01-02 16:06:25 [Remington Miller] Access 146.7.166.62 - 56234KB
+2017-01-02 16:20:25 [Loyce Hegmann] Access 31.124.212.45 - 142KB
+2017-01-02 16:20:53 [Remington Miller] Access 145.81.217.52 - 43902KB
+2017-01-02 16:23:55 [Amani Langworth] Access 100.172.141.95 - 40958KB
+2017-01-02 16:30:46 [Veda Macejkovic] Access 250.30.158.202 - 8536KB
+2017-01-02 16:32:59 [Eldora Hammes] Access 154.239.85.164 - 8954KB
+2017-01-02 16:33:46 [Stacy Thiel] Access 165.223.169.160 - 48450KB
+2017-01-02 16:35:45 [Dora Hand] Access 247.153.144.158 - 80352KB
+2017-01-02 16:50:15 [Jacquelyn Bogan] Access 230.168.65.70 - 46953KB
